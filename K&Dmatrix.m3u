@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ps3mobi.com/images/logo.jpg" group-title="▶️PS3Movies+✅",PS3Movies+
+https://archive.org/download/cine-y-tv-latinoamerica/Menu%20Secundario.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="▶️Brian Vega✅",Brian Vega
+https://archive.org/download/cine-y-tv-latinoamerica/brian.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20231005-162223-020/IMG_20231005_162223_020.jpg" group-title="▶️IPTV K&D✅",Cine Tv-LatinoAmericana
+https://raw.githubusercontent.com/david2803/Iptv/main/K%26D.m3u
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20231005-162223-020/74d9a2aa87e516f6a40190a5428ace6f.jpg" group-title="▶️ IPTV D5@C ✅",EnConstruccion...
+https://archive.org/download/cine-y-tv-latinoamerica/d7ca9a1aa6b19ac73b1e41e8153c69da.jpg
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2021/10/pantalla-inicio.jpg" group-title="▶️REGIO FLIX PELICULAS✅",REGIO FLIX HD
+http://srregio.net/23so/regioflix.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV✅",REGIO FLIX TV
+http://srregio.net/23so/tv.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV2✅",REGIO FLIX TV2
+http://srregio.net/23so/tv2.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV3✅",REGIO FLIX TV3
+http://srregio.net/23so/tv3.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV4✅",REGIO FLIX TV4
+http://srregio.net/23so/tv4.m3u
+
+#EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV5✅",REGIO FLIX TV5
+http://srregio.net/23so/tv5.m3u
+
+#EXTINF:-1 tvg-logo="https://vipmultimedia.pl/wp-content/uploads/2016/12/cropped-vip-3.jpg" group-title="▶️VIP MULTIMEDIA✅",VIP (Con Problemas)
+https://archive.org/download/cine-y-tv-latinoamerica/VIPbrianVega.m3u
