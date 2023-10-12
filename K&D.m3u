@@ -1,64 +1,51 @@
 #EXTM3U
 #EXTINF:-1 group-title="▶️TV COLOMBIA✅",COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
-
 #EXTINF:-1 group-title="▶️TV PERU✅",PERU
 https://iptv-org.github.io/iptv/countries/pe.m3u
-
 #EXTINF:-1 group-title="▶️TV BOLIVIA✅",BOLIVIA
 https://iptv-org.github.io/iptv/countries/bo.m3u
-
 #EXTINF:-1 group-title="▶️TV BRAZIL✅",BRAZIL
 https://iptv-org.github.io/iptv/countries/br.m3u
-
 #EXTINF:-1 group-title="▶️TV CUBA✅",CUBA
 https://iptv-org.github.io/iptv/countries/cu.m3u
-
 #EXTINF:-1 group-title="▶️TV ECUADOR✅",ECUADOR
 https://iptv-org.github.io/iptv/countries/ec.m3u
-
 #EXTINF:-1 group-title="▶️TV EL SALVADOR✅",EL SALVADOR
 https://iptv-org.github.io/iptv/countries/bo.m3u
-
 #EXTINF:-1 group-title="▶️TV GUATEMALA✅",GUATEMALA
 https://iptv-org.github.io/iptv/countries/gt.m3u
-
 #EXTINF:-1 group-title="▶️TV HAITI✅",HAITI
 https://iptv-org.github.io/iptv/countries/ht.m3u
-
 #EXTINF:-1 group-title="▶️TV HONDURAS✅",HONDURAS
 https://iptv-org.github.io/iptv/countries/hn.m3u
-
 #EXTINF:-1 group-title="▶️TV NICARAGUA✅",NICARAGUA
 https://iptv-org.github.io/iptv/countries/ni.m3u
-
 #EXTINF:-1 group-title="▶️TV PANAMA✅",PANAMA
 https://iptv-org.github.io/iptv/countries/pa.m3u
-
 #EXTINF:-1 group-title="▶️TV PARAGUAY✅",PARAGUAY
 https://iptv-org.github.io/iptv/countries/py.m3u
-
 #EXTINF:-1 group-title="▶️TV PUERTO RICO✅",PUERTO RICO
 https://iptv-org.github.io/iptv/countries/pr.m3u
-
 #EXTINF:-1 group-title="▶️TV NICARAGUA✅",NICARAGUA
 https://iptv-org.github.io/iptv/countries/ni.m3u
-
 #EXTINF:-1 group-title="▶️TV URUGUAY✅",URUGUAY
 https://iptv-org.github.io/iptv/countries/uy.m3u
-
 #EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
 https://iptv-org.github.io/iptv/countries/ve.m3u
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_El_argentino-755229555-large.jpg" group-title="▶️CINE INSURGENTE✅",[EL CHE-EL ARGENTINO]
+https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20El%20argentino%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_Guerrilla-971418057-large.jpg" group-title="▶️CINE INSURGENTE✅",[EL CHE-GUERRILLA]
+https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20Guerrilla%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
+
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/historias_de_la_revolucion-318651647-mmed.jpg" group-title="▶️CINE INSURGENTE✅",[HISTORIA DE LA REVOLUCION]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Historias%20de%20la%20revoluci%C3%B3n%20%281960%29%20%5BDVDRip%20VO%5D.mp4
-
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/La_larga_noche-281835305-large.jpg" group-title="▶️CINE INSURGENTE✅",LA LARGA NOCHE
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/La%20larga%20noche%20%28Joseph%20Losey%2C%201951%29%20%5BDVDRip%20Dual%5D.mkv
-
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/I_sovversivi-827885943-large.jpg" group-title="▶️CINE INSURGENTE✅",Subversivos PaoloTaviani-VittorioTaviani1967
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Subversivos%20%28Paolo%20Taviani%2C%20Vittorio%20Taviani%2C%201967%29%20%5BDVDRip%20VO%5D.avi
-
 #EXTINF:0 tvg-logo="https://archive.org/download/img-20231005-162223-020/docehombressinpiedad.jpg" group-title="▶️CINE INSURGENTE✅",DoceHombresSinPiedad1957
 https://archive.org/download/img-20231005-162223-020/Doce%20hombres%20sin%20piedad%20%28Sidney%20Lumet%2C%201957%29%20%5BHD%201080p%20Dual%5D.mkv
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/taita_boves-445909033-large.jpg" group-title="▶️CINE INSURGENTE✅",TaitaBovesElUroGallo
