@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_El_argentino-755229555-large.jpg" group-title="",[EL_CHE,EL ARGENTINO]
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_El_argentino-755229555-large.jpg" group-title="",[EL_CHE EL ARGENTINO]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20El%20argentino%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_Guerrilla-971418057-large.jpg" group-title="",[EL_CHE,GUERRILLA]
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_Guerrilla-971418057-large.jpg" group-title="",[EL_CHE GUERRILLA]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20Guerrilla%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Carlos-214973462-large.jpg" group-title="",[CARLOS]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Carlos%20%28Olivier%20Assayas%2C%202010%29%20%5BDVDRip%20Dual%5D.avi
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/El_Conde-709783273-large.jpg" group-title="",[EL CONDE,PabloLarraín 2023]
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/El_Conde-709783273-large.jpg" group-title="",[EL CONDE PabloLarraín 2023]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/El%20Conde%20%28Pablo%20Larra%C3%ADn%2C%202023%29%20%5BWEB-DL%201080p%20Dual%5D.mp4
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/historias_de_la_revolucion-318651647-mmed.jpg" group-title="",[HISTORIA DE LA REVOLUCION]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Historias%20de%20la%20revoluci%C3%B3n%20%281960%29%20%5BDVDRip%20VO%5D.mp4
@@ -47,10 +47,9 @@ https://archive.org/download/img-20231005-162223-020/Los%20fot%C3%B3grafos%20de%
 https://archive.org/download/img-20231005-162223-020/Psiconautas%20%28P.%20Rivero%2C%20A.%20V%C3%A1zquez%2C%202015%29%20%5BHDTV%20720p%20VO%5D.mp4
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Tractoristas-381824162-large.jpg" group-title="",TRACTORISTAS(URSS1939)
 https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/Tractoristas%20%28Iv%C3%A1n%20P%C3%BDriev%2C%201939%29%20%5BDVDRip%20VO%5D.ia.mp4
-#EXTINF:0 group-title="" tvg-logo="https://pics.filmaffinity.com/El_padre-882668488-large.jpg",[THE CUT, ElPadre]
+#EXTINF:0 group-title="" tvg-logo="https://pics.filmaffinity.com/El_padre-882668488-large.jpg",[THE CUT ElPadre]
 https://archive.org/download/img-20231005-162223-020/El%20padre%20%28Fatih%20Akin%2C%202014%29%20%5BHDRip%20VE%5D.avi
 #EXTINF:0 group-title="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/39/59/20203347.jpg",[MI PADRE ES INGENIERO]
 https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/Mi%20padre%20es%20ingeniero%20%28Robert%20Gu%C3%A9diguian%2C%202004%29%20%5BDVDRip%20Dual%5D.avi
-#EXTINF:0 group-title="" tvg-logo="https://cinefrances.net/site/wp-content/uploads/movie-poster-la-confesion.jpg",[LA CONFESIÓN (Costa-Gavras1970)]
+#EXTINF:0 group-title="" tvg-logo="https://cinefrances.net/site/wp-content/uploads/movie-poster-la-confesion.jpg",[LA CONFESIÓN (Costa Gavras1970)]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/La%20confesi%C3%B3n%20%28Costa-Gavras%2C%201970%29%20%5BDVDRip%20Dual%5D.mkv
-
