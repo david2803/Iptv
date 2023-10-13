@@ -1,1 +1,1 @@
- https://bit.ly/KDiptv
+carpe diem
