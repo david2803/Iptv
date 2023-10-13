@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="▶️ TERROR ✅",TERROR
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_terror.m3u
+
 #EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/I/716bgBLYxYL._AC_UF894,1000_QL80_.jpg",Elementos
 http://notabasica.com/909032/Elemental.2023.lati.mp4
 #EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0MDQ4ZTEtYWM2MS00ZDg3LWFhMTMtZGQ4MDQxMzAwNDcxXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg",Flash 2023
