@@ -1,1 +1,35 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="▶️TV COLOMBIA✅",COLOMBIA
+https://iptv-org.github.io/iptv/countries/co.m3u
+#EXTINF:-1 group-title="▶️TV PERU✅",PERU
+https://iptv-org.github.io/iptv/countries/pe.m3u
+#EXTINF:-1 group-title="▶️TV BOLIVIA✅",BOLIVIA
+https://iptv-org.github.io/iptv/countries/bo.m3u
+#EXTINF:-1 group-title="▶️TV BRAZIL✅",BRAZIL
+https://iptv-org.github.io/iptv/countries/br.m3u
+#EXTINF:-1 group-title="▶️TV CUBA✅",CUBA
+https://iptv-org.github.io/iptv/countries/cu.m3u
+#EXTINF:-1 group-title="▶️TV ECUADOR✅",ECUADOR
+https://iptv-org.github.io/iptv/countries/ec.m3u
+#EXTINF:-1 group-title="▶️TV EL SALVADOR✅",EL SALVADOR
+https://iptv-org.github.io/iptv/countries/bo.m3u
+#EXTINF:-1 group-title="▶️TV GUATEMALA✅",GUATEMALA
+https://iptv-org.github.io/iptv/countries/gt.m3u
+#EXTINF:-1 group-title="▶️TV HAITI✅",HAITI
+https://iptv-org.github.io/iptv/countries/ht.m3u
+#EXTINF:-1 group-title="▶️TV HONDURAS✅",HONDURAS
+https://iptv-org.github.io/iptv/countries/hn.m3u
+#EXTINF:-1 group-title="▶️TV NICARAGUA✅",NICARAGUA
+https://iptv-org.github.io/iptv/countries/ni.m3u
+#EXTINF:-1 group-title="▶️TV PANAMA✅",PANAMA
+https://iptv-org.github.io/iptv/countries/pa.m3u
+#EXTINF:-1 group-title="▶️TV PARAGUAY✅",PARAGUAY
+https://iptv-org.github.io/iptv/countries/py.m3u
+#EXTINF:-1 group-title="▶️TV PUERTO RICO✅",PUERTO RICO
+https://iptv-org.github.io/iptv/countries/pr.m3u
+#EXTINF:-1 group-title="▶️TV NICARAGUA✅",NICARAGUA
+https://iptv-org.github.io/iptv/countries/ni.m3u
+#EXTINF:-1 group-title="▶️TV URUGUAY✅",URUGUAY
+https://iptv-org.github.io/iptv/countries/uy.m3u
+#EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
+https://iptv-org.github.io/iptv/countries/ve.m3u
