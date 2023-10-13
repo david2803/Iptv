@@ -3,6 +3,9 @@
 https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_terror.m3u
 #EXTINF:0 group-title="▶️ ACCION ✅",ACCION
 https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_accion.m3u
+#EXTINF:0 group-title="▶️ COMEDIA ✅",COMEDIA
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_comedia.m3u
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/I/716bgBLYxYL._AC_UF894,1000_QL80_.jpg",Elementos
 http://notabasica.com/909032/Elemental.2023.lati.mp4
