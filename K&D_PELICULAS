@@ -1,1 +1,51 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/I/716bgBLYxYL._AC_UF894,1000_QL80_.jpg",Elementos
+http://notabasica.com/909032/Elemental.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0MDQ4ZTEtYWM2MS00ZDg3LWFhMTMtZGQ4MDQxMzAwNDcxXkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg",Flash 2023
+http://notabasica.com/909032/Flash.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Los_caballeros_del_zodiaco-661928552-large.jpg",Caballeros del zodiaco 2023
+http://notabasica.com/909032/Knights.of.the.Zodiac.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/I/81NcnbKcqOL._AC_UF894,1000_QL80_.jpg",Guardianes de la galaxia Vol 3
+http://notabasica.com/909032/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Sisu-439205755-large.jpg",Sisu
+http://notabasica.com/909032/Sisu.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/VW6GWH7SPFG67A4SJP3E7KVBTI.jpeg",Rapido y furioso X
+http://notabasica.com/909032/Fast.X.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/I/91zqGNzwk5L._AC_SL1500_.jpg", Super Mario Bros La Pelicula
+http://notabasica.com/909032/The.Super.Mario.Bros.Movie.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_FMjpg_UX1000_.jpg", Evil Dead Rise | REGIOFLIX
+http://notabasica.com/909032/Evil.Dead.Rise.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/WasvFSz.jpg",Misterio a la vista 2
+http://notabasica.com/909032/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY1OWI4M2UtYjRlNi00ZjBmLWE5OTYtYjlmNzY0ODEwNDBhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg", Tetris
+http://notabasica.com/909032/Tetris.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogX3cg-Bna4HgYPGluls4gHcAuP8S4B1kn3S51OPnh_KfsIXbJQPJsw-8e96YJ3Cz_YJ8wRPn_eibpf_dkUZegAKtJDPPKXINAODF1mmfWmAFpXQyKomaui8cm9G5pY-MBQLiSe9oikGXrt8qUiKEwKtlGpnG2V5TrZ_8523PtSLJ_Urqt2SpZNHtTQ/s320/Creed_III_Poster.jpg", CREED III
+http://notabasica.com/909032/Creed.3.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEVr9Sf0eRM3u3JFFNn7yGC45rdNS_loHNBScUPEDTFa5iMea3CxXVCzq_ZTWPeBCjllc_umgRkCFGlpTqEwKiufdFDINA3FPhDIJ0tjtfHRgUXyCQd693WDzSpyDhZsVdgEcsY7oFm2VSHYgk21mtlY3d_W80ASr32VEsppqF1vLpQyfBGpfuswNcw/s320/PUEDES-HACERLO-CHANG.jpg",Puedes hacerlo Chang
+http://notabasica.com/909032/Chang.Can.Dunk.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://www.themoviedb.org/t/p/original/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg", Jack in the box 2
+http://notabasica.com/909032/The.Jack.in.the.Box.Awakening.2022.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjMzJlYmYtYzI0ZC00NjBlLThiNGUtNjdlODIzY2VkOWFjXkEyXkFqcGdeQXVyMTUzNzc3NDAz._V1_.jpg", The Fallen Sun | REGIOFLIX
+http://notabasica.com/909032/Luther.The.Fallen.Sun.2023.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lahiguera.net/cinemania/pelicula/10524/oso_vicioso-cartel-10824.jpg", Oso vicioso | REGIOFLIX
+http://notabasica.com/909032/Cocaine.Bear.2023.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQxNzAwNmYtN2QwZi00NDU4LTlkZmUtMDQxZTYxMTZjZDk3XkEyXkFqcGdeQXVyMjQxODc1ODc@._V1_FMjpg_UX1000_.jpg", Mirame
+http://notabasica.com/909032/M%C3%ADrame.2021.lati.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.shopify.com/s/files/1/0265/2769/4934/products/black_panther_wakanda_forever_ver26_xxlg_1383x.jpg?v=1667337516",Black Panther Wakanda Forever
+http://notabasica.com/909032/Black.Panther.Wakanda.Forever.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://cinembrollos.files.wordpress.com/2022/09/menu_ver3.jpg",El Menu
+http://notabasica.com/909032/The.Menu.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://www.quepeliculaver.com/uploads/2022/11/el_gato_con_botas_el_ultimo_deseo-cartel-10596.jpg",Gato con botas 2022
+http://notabasica.com/909032/Puss.in.Boots.The.Last.Wish.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl9iV9tc_Oc3k-YGGanZbjkW2BIXjVzhzZaxclapKn9m9A8NCoD_74t039ghYsUkP7VnC8_GxBYShF1QNrrDwzWLGv66z3vkMqiUhBXii0C3qhceqW0fV1BtR5-MFJncyV3Qv0e98CTLKr1t5Km-uOHbuiArqGBzR8wXBbpeYTbLH91HlBAS9MGCI6vQ/s1600/poster-huevitos-congelados.jpg",Huevitos congelados
+http://notabasica.com/909032/Huevitos.congelados.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Emancipaci_n-196226665-large.jpg",Emancipacion
+http://notabasica.com/909032/Emancipaci%C3%B3n.2022.lati.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",Pinocchio 2022
+http://notabasica.com/909032/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/03/14/13/0249485.jpg" group-title="",[GRAN TURISMO]
+https://archive.org/download/img-20231005-162223-020/Gran.Turismo.2023.mp4
+#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/414290/414290_173x256.jpg" group-title="",[NADIE PODRA SALVARTE]
+https://archive.org/download/img-20231005-162223-020/Nadie.Podr%C3%A1.Salvarte.2023.1080p-Dual-Lat.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AhLq1O236W8/maxresdefault.jpg" group-title="",[EL CURANDERO]
+https://archive.org/download/img-20231005-162223-020/C91ELCRD.mp4
