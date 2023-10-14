@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://dpilaser.com/wp-content/uploads/2017/01/Bienvenido.png",:::[BIENVENID@S]:::
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+#EXTINF:0 tvg-logo="https://datalockperu.com/wp-content/uploads/2023/09/Servicios-IPTV-en-la-Play-Store.jpeg",:::[Recibir Donaciones de ustedes es de gran Ayuda]:::
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+#EXTINF:0 tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/Amazon-Fire-TV-Omni-QLED.jpg",::: K&D IPTV ::: 
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+#EXTINF:0 tvg-logo="https://www.descifrado.com/wp-content/uploads/2022/07/Foto-D%C3%B3lar.jpeg",:::http://paypal.me/KDiptv:::
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+#EXTINF:0 tvg-logo="https://archive.org/download/cine-y-tv-latinoamerica/Recibir%20Donaciones.jpg",:::QR DE NUESTRA CUENTA BINANCE:::
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+#EXTINF:0 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/08/30/64effc31d8248431110fbc34.jpg",:::[PAGO MOVIL, 0102 (0412-0530075) 15.869.875]:::
+http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
+
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-595394181-large.jpg",Misión imposible: Sentencia mortal - Parte 1
 https://archive.org/download/el-viento-del-este-grupo-dziga-vertov-1970-bdrip-720p-vo/Mission.Impossible.7.2023.lati.mp4
 #EXTINF:-1 group-title="" tvg-logo="https://www.themoviedb.org/t/p/w500/4DpHqXpNjlPPDBBNc2geWKUSTBW.jpg",EL MONSTRUO DENTRO DE MI
@@ -33,16 +46,3 @@ https://archive.org/download/reptile.-2023.lati/Nowhere.2023.lati.mp4
 https://archive.org/download/reptile.-2023.lati/Reptile.2023.lati.mp4
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/El_tutor-173692203-large.jpg",The Tutor 2023
 https://archive.org/download/reptile.-2023.lati/The.Tutor.2023.lati.mp4
-
-#EXTINF:0 tvg-logo="https://dpilaser.com/wp-content/uploads/2017/01/Bienvenido.png",:::[BIENVENID@S]:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://datalockperu.com/wp-content/uploads/2023/09/Servicios-IPTV-en-la-Play-Store.jpeg",:::[Recibir Donaciones de ustedes es de gran Ayuda]:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/Amazon-Fire-TV-Omni-QLED.jpg", ::: K&D IPTV ::: 
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://www.descifrado.com/wp-content/uploads/2022/07/Foto-D%C3%B3lar.jpeg",:::http://paypal.me/KDiptv:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://archive.org/download/cine-y-tv-latinoamerica/Recibir%20Donaciones.jpg",:::QR DE NUESTRA CUENTA BINANCE:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/08/30/64effc31d8248431110fbc34.jpg",:::[PAGO MOVIL, 0102 (0412-0530075) 15.869.875]:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
