@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://dpilaser.com/wp-content/uploads/2017/01/Bienvenido.png",[BIENVENID@S]
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://datalockperu.com/wp-content/uploads/2023/09/Servicios-IPTV-en-la-Play-Store.jpeg",[Recibir Donaciones de ustedes es de gran Ayuda]
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://imagekit.androidphoria.com/wp-content/uploads/Amazon-Fire-TV-Omni-QLED.jpg", :: K&D IPTV :: 
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://www.descifrado.com/wp-content/uploads/2022/07/Foto-D%C3%B3lar.jpeg",http://paypal.me/KDiptv
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:0 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/08/30/64effc31d8248431110fbc34.jpg",[PAGO MOVIL, 0102 (0412-0530075) 15.869.875]
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV✅",REGIO FLIX TV
 http://srregio.net/23so/tv.m3u
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV2✅",REGIO FLIX TV2
