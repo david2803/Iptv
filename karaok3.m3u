@@ -1,18 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://resources.tidal.com/images/1eaf82bc/1b69/4946/8255/d0ee4f711ccd/640x640.jpg" group-title="",BALADAS LATINAS
+
+#EXTINF:0 tvg-logo="https://resources.tidal.com/images/1eaf82bc/1b69/4946/8255/d0ee4f711ccd/640x640.jpg",BALADAS LATINAS
 https://dl.dropbox.com/s/68i8totv76p7up6/BALADASESP.M3U
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a4/bf/a4bf93c2187e7435ca7adf14b72cbd6a.jpg" group-title="",BALADAS INGLES
+
+#EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/a4/bf/a4bf93c2187e7435ca7adf14b72cbd6a.jpg",BALADAS INGLES
 https://dl.dropbox.com/s/kuks0yaedfr3fsz/KARAOKECLASICASENINGLES.M3U
-#EXTINF:-1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/12f8da9553d2f639d5f105686ecefbc7/500x500.jpg" group-title="",ROCK ESPANOL
+
+#EXTINF:0 tvg-logo="https://cdns-images.dzcdn.net/images/cover/12f8da9553d2f639d5f105686ecefbc7/500x500.jpg",ROCK ESPANOL
 https://dl.dropbox.com/s/ypgwfksgg0e8yci/ROCKESP.M3U
-#EXTINF:-1 tvg-logo="https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/rockIngles.jpg" group-title="",ROCK INGLES
+
+#EXTINF:0 tvg-logo="https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/rockIngles.jpg",ROCK INGLES
 https://dl.dropbox.com/s/8v7zaly1cx7n9g1/ROCKENING.M3U
-#EXTINF:-1 tvg-logo="https://diffusionart.co/wp-content/uploads/2023/04/Lofi-Music-Anime-Graphics-Wallpapers10.png" group-title="",ANIME
+
+#EXTINF:0 tvg-logo="https://diffusionart.co/wp-content/uploads/2023/04/Lofi-Music-Anime-Graphics-Wallpapers10.png",ANIME
 https://dl.dropbox.com/s/z4eu4pvehuj9p65/KARAOKEANIME.M3U
-#EXTINF:-1 tvg-logo="https://latinmusic.pe/wp-content/uploads/LOGO-LATIN-1.png" group-title="",LATIN
+
+#EXTINF:0 tvg-logo="https://latinmusic.pe/wp-content/uploads/LOGO-LATIN-1.png",LATIN
 https://bit.ly/3Nc5CoE
-#EXTINF:-1 tvg-logo="https://cdn.smehost.net/sonymusices-45pressprod/wp-content/uploads/2019/07/ab67706c0000bebbabb63f8229cb1d6b89501adb-57.jpg" group-title="",
-POP INGLES
+
+#EXTINF:0 tvg-logo="https://cdn.smehost.net/sonymusices-45pressprod/wp-content/uploads/2019/07/ab67706c0000bebbabb63f8229cb1d6b89501adb-57.jpg",POP INGLES
 https://bit.ly/3XneiNp
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logotipo-vector-musica-rap-o-emblema-microfono-mano-llamas-relampago-concierto-festival-rimas-hip-hop-o-etiqueta-fiesta-club-nocturno-estampado-camiseta_570429-1061.jpg" group-title="",RAP
+
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logotipo-vector-musica-rap-o-emblema-microfono-mano-llamas-relampago-concierto-festival-rimas-hip-hop-o-etiqueta-fiesta-club-nocturno-estampado-camiseta_570429-1061.jpg",RAP
 https://bit.ly/3qOesBn
