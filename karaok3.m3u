@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:'1,tvg-logo="https://resources.tidal.com/images/1eaf82bc/1b69/4946/8255/d0ee4f711ccd/640x640.jpg",BALADAS LATINAS
+#EXTINF:-1,tvg-logo="https://resources.tidal.com/images/1eaf82bc/1b69/4946/8255/d0ee4f711ccd/640x640.jpg",BALADAS LATINAS
 https://dl.dropbox.com/s/68i8totv76p7up6/BALADASESP.M3U
 
-#EXTINF:1,tvg-logo="https://static-media.streema.com/media/cache/a4/bf/a4bf93c2187e7435ca7adf14b72cbd6a.jpg",BALADAS INGLES
+#EXTINF:-1,tvg-logo="https://static-media.streema.com/media/cache/a4/bf/a4bf93c2187e7435ca7adf14b72cbd6a.jpg",BALADAS INGLES
 https://dl.dropbox.com/s/kuks0yaedfr3fsz/KARAOKECLASICASENINGLES.M3U
 
 #EXTINF:-1,tvg-logo="https://cdns-images.dzcdn.net/images/cover/12f8da9553d2f639d5f105686ecefbc7/500x500.jpg",ROCK ESPANOL
 https://dl.dropbox.com/s/ypgwfksgg0e8yci/ROCKESP.M3U
 
-#EXTINF:'1,tvg-logo="https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/rockIngles.jpg",ROCK INGLES
+#EXTINF:-1,tvg-logo="https://archive.org/download/cf5da63b38d6af99a79b687496433bb9/rockIngles.jpg",ROCK INGLES
 https://dl.dropbox.com/s/8v7zaly1cx7n9g1/ROCKENING.M3U
 
 #EXTINF:-1,tvg-logo="https://diffusionart.co/wp-content/uploads/2023/04/Lofi-Music-Anime-Graphics-Wallpapers10.png",ANIME
