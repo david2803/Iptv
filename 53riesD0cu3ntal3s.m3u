@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1,group-title="SERIES DOCUMENTALES Y MUCHO MAS"
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/8154d1/documentales/1366_2000.jpg" group-title="▶️ DOCUMENTALES ✅",DOCUMENTALES
+#EXTINF:-1,tvg-logo="https://i.blogs.es/8154d1/documentales/1366_2000.jpg",DOCUMENTALES
 https://bit.ly/3pQWq0G
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="▶️ SERIES ✅",SERIES
+#EXTINF:-1,tvg-logo="https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.jpg",SERIES
 https://bit.ly/3OtTJg0
-#EXTINF:-1 tvg-logo="https://tentulogo.com/wp-content/uploads/2018/11/cabecera-dibujos-animados.jpg" group-title="▶️ CARICATURAS ✅",CARICATURAS
+#EXTINF:-1,tvg-logo="https://tentulogo.com/wp-content/uploads/2018/11/cabecera-dibujos-animados.jpg",CARICATURAS
 https://bit.ly/43f2izf
-#EXTINF:-1 tvg-logo="https://s.france24.com/media/display/6aca8d1a-7783-11ea-9cf2-005056bf87d6/w:980/p:16x9/WEB%2005ABR%20DEPORTES%20PORTADA%20FOTO.jpg" group-title="▶️ DEPORTES ✅",DEPORTES
+#EXTINF:-1,tvg-logo="https://s.france24.com/media/display/6aca8d1a-7783-11ea-9cf2-005056bf87d6/w:980/p:16x9/WEB%2005ABR%20DEPORTES%20PORTADA%20FOTO.jpg",DEPORTES
 https://bit.ly/3MK67XI
-#EXTINF:-1 tvg-logo="https://i.blogs.es/30018b/25-mejores-animes/1366_2000.jpg" group-title="▶️ ANIMES ✅",ANIMES
+#EXTINF:-1,tvg-logo="https://i.blogs.es/30018b/25-mejores-animes/1366_2000.jpg",ANIMES
 https://bit.ly/43gqG3K
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg" group-title="▶️ PELICULAS DE ANIMES ✅",PELICULAS DE ANIMES
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg",PELICULAS DE ANIMES
 https://bit.ly/3MI77vz
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg" group-title="▶️ KARAOKE ✅",KARAOKE
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg",KARAOKE
 https://raw.githubusercontent.com/david2803/Iptv/main/karaok3.m3u
 
 
