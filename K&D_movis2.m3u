@@ -65,8 +65,7 @@ https://archive.org/download/img-20231005-162223-020/Grita%20libertad%20%28Richa
 https://archive.org/download/img-20231005-162223-020/Los%20diablos%20%28Christophe%20Ruggia%2C%202002%29%20%5BDVDRip%20Dual%5D.avi
 
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/The_Bang_Bang_Club-244734819-large.jpg" subtitles="spa",[LOS FOTOGRAFOS DE LA MUERTE]
-#EXTVLCOPT:sub-file="https://archive.org/download/img-20231005-162223-020/Los%20fot%C3%B3grafos%20de%20la%20muerte%20%28Steven%20Silver%2C%202010%29%20%5BBDRip%201080p%20VO%5D.spa.srt"
-#EXTMPVOPT:sub-file="https://archive.org/download/img-20231005-162223-020/Los%20fot%C3%B3grafos%20de%20la%20muerte%20%28Steven%20Silver%2C%202010%29%20%5BBDRip%201080p%20VO%5D.spa.srt"
+#EXTMOVIANOPT:sub-file="https://archive.org/download/img-20231005-162223-020/Los%20fot%C3%B3grafos%20de%20la%20muerte%20%28Steven%20Silver%2C%202010%29%20%5BBDRip%201080p%20VO%5D.spa.srt"
 https://archive.org/download/img-20231005-162223-020/Los%20fot%C3%B3grafos%20de%20la%20muerte%20%28Steven%20Silver%2C%202010%29%20%5BBDRip%201080p%20VO%5D.mp4
 
 #EXTINF:0 group-title="" tvg-logo="https://pics.filmaffinity.com/Psiconautas_los_nianos_olvidados-812812993-large.jpg",[PSICONAUTAS]
