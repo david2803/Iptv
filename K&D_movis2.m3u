@@ -50,10 +50,7 @@ https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Taita.Bo
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Pel%C3%ADcula%20Zamora.mp4
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/La_Red_Avispa-546869347-large.jpg" group-title="",[LA RED AVISPA 2019]
 https://archive.org/download/img-20230701-185732-054-241499266/La%20Red%20Avispa%20%282019%29%20%5BWEB-DL%201080p%20Dual%5D.mp4
-#EXTINF:-1 Settings.opensubtitlesAutoUpload = true
-Settings.opensubtitlesAuthenticated = true;
-Settings.opensubtitlesUsername = "kdmovis";
-Settings.opensubtitlesPassword = "Karina.2803"; tvg-logo="https://pics.filmaffinity.com/Compliance-855383520-large.jpg" group-title="",[COMPLIANCE 2012]
+#EXTINF:-1 Settings.opensubtitlesAutoUpload=true tvg-logo="https://pics.filmaffinity.com/Compliance-855383520-large.jpg" group-title="",[COMPLIANCE 2012]
 https://archive.org/download/img-20230701-185732-054-241499266/Compliance%20%28Craig%20Zobel%2C%202012%29%20%5BBDRip%20VO%5D.mp4
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Cenizas_en_el_cielo_Un_cel_de_plom-517757330-large.jpg" group-title="",[CENIZAS EN EL CIELO 2023]
 https://archive.org/download/img-20230701-185732-054-241499266/Cenizas%20en%20el%20cielo%20%28Miquel%20Romans%2C%202023%29%20%5BWEB-DL%201080p%20VE%5D.mp4
