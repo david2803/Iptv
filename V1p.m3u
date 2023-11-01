@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dpilaser.com/wp-content/uploads/2017/01/Bienvenido.png",::: ☆ ★ BIENVENID@S ☆ ★ :::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/31b-06776ceb-4b-9fc-1ea-84a-145b-235f-15/K%26D%20logo%2031.png",::: K&D IPTV :::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/31b-06776ceb-4b-9fc-1ea-84a-145b-235f-15/K%26D%20logo%2031.png",###:::DISFRUTEN DEL CONTENIDO:::###
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-
 #EXTINF:-1 group-title="" tvg-logo="https://mx.web.img3.acsta.net/pictures/23/08/29/18/48/2146269.jpg",Contrarreloj
 https://archive.org/download/captura-de-pantalla-2023-10-05-025340/Contrarreloj.2023.1080P-Dual-Lat.mp4
 #EXTINF:-1 group-title="" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5ABDFA702A3DA54F2BD923A8D06363BDD36603522C9D055BFC4D9823CD86648F/scale?width=506&aspectRatio=2.00&format=jpeg",Mickey y sus amigos: Dulce o truco
@@ -305,18 +298,6 @@ https://archive.org/download/el.pan.de.la.guerra.-n.-twomey.-2017.-spanish.-engl
 #EXTINF:-1 group-title="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/95e9627e373310034e78cfb8e998b57f87f2a9fb6c7706f6ce37ca4716bc98a5.png",Nuestro Amigo Extraordinario 2023
 https://archive.org/download/el.pan.de.la.guerra.-n.-twomey.-2017.-spanish.-english.-subs.-bdrip.-720p.x-264-ac-3/Nuestro.Amigo.Extraordinario..2023.1080P-Dual-Lat.mp4
 
-#EXTINF:-1 tvg-logo="https://datalockperu.com/wp-content/uploads/2023/09/Servicios-IPTV-en-la-Play-Store.jpeg",:::[Recibir Donaciones de ustedes es de gran Ayuda]:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/31b-06776ceb-4b-9fc-1ea-84a-145b-235f-15/K%26D%20logo%2031.png",::: K&D IPTV :::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://www.descifrado.com/wp-content/uploads/2022/07/Foto-D%C3%B3lar.jpeg",:::http://paypal.me/KDiptv:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/cine-y-tv-latinoamerica/Recibir%20Donaciones.jpg",:::QR DE NUESTRA CUENTA BINANCE:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/08/30/64effc31d8248431110fbc34.jpg",:::PMovil 0102 [0412-0530075] 15.869.875:::
-http://LAS_DONACIONES_SON_VOLUNTARIAS_LA_USAMOS_PARA_CONTINUAR_CON_EL_PROYECTO.mp4
-
-#EXTINF:-1,group-title="SERIES"
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-3DB-dONzLV0/YSX1tHCbWyI/AAAAAAAAB48/OLGNqi5OFT4OX-6bM3T4je_ny64cPwyJQCNcBGAsYHQ/s1024/Doctormilagro.jpg",DOCTOR MILAGRO
 https://raw.githubusercontent.com/david2803/Iptv/main/K%26D_Series.m3u
 
