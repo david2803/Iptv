@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="▶️ VIP ZONE ✅",VIP ZONE Solicita al (+58 412-0530075)
+https://raw.githubusercontent.com/david2803/Iptv/main/V1p.m3u
 #EXTINF:0 group-title="▶️ TERROR ✅",TERROR
 https://bit.ly/3Iusle0
 #EXTINF:0 group-title="▶️ ACCION ✅",ACCION
@@ -51,3 +53,6 @@ https://dl.dropbox.com/s/jqdo63wtxlekk3f/COLECHRISCOLUMBUS.M3U
 https://dl.dropbox.com/s/vnyeocvl4rh1o4f/COLETIMBURTOM.M3U
 #EXTINF:0 group-title="▶️ VIP ZONE ✅",VIP ZONE Solicita al (+58 412-0530075)
 https://raw.githubusercontent.com/david2803/Iptv/main/V1p.m3u
+
+#EXTINF:0 group-title="▶️ CINE INSURGENTE ✅",Películas para Gente de Izquierda 
+https://raw.githubusercontent.com/david2803/Iptv/main/K%26D_movis2.m3u
