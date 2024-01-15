@@ -21,6 +21,9 @@ https://bit.ly/3BP0oJS
 https://bit.ly/3MnHCOS
 #EXTINF:0 group-title="▶️ REGIOFLIX ✅",PELICULAS REGIOFLIX
 http://srregio.net/23so/regioflix.m3u
+
+#EXTINF:0 group-title="▶️ VARIADOS ✅", PELÍCULAS VARIADAS 
+https://bit.ly/43UMYrv
 #EXTINF:0 group-title="▶️ CONCIERTO ✅",CONCIERTO
 https://raw.githubusercontent.com/david2803/Iptv/main/c0nci3rt0.m3u
 #EXTINF:0 group-title="▶️ COLECCION ADAM SANDLER ✅",COLECCION ADAM SANDLER
