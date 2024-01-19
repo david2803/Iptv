@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="▶️ VIP ZONE ✅",VIP ZONE Solicita al (+58 412-0530075)
 https://raw.githubusercontent.com/david2803/Iptv/main/V1p.m3u
-#EXTINF:0 group-title="▶️ TERROR ✅",TERROR
-https://bit.ly/3TX7ruB
 #EXTINF:0 group-title="▶️ ACCION ✅",ACCION
 https://bit.ly/3Sn0z8I
 #EXTINF:0 group-title="▶️ COMEDIA ✅",COMEDIA
@@ -17,6 +15,8 @@ https://bit.ly/3tKqnlH
 https://bit.ly/3SlK9NP
 #EXTINF:0 group-title="▶️ SUSPENSO ✅",SUSPENSO
 https://bit.ly/3RWnWo1
+#EXTINF:0 group-title="▶️ TERROR ✅",TERROR
+https://bit.ly/3TX7ruB
 #EXTINF:0 group-title="▶️ FANTASIA ✅",FANTASIA
 https://bit.ly/4aXnT3N
 #EXTINF:0 group-title="▶️ SUPER HEROES ✅",SUPER HEROES
@@ -29,27 +29,94 @@ http://srregio.net/23so/regioflix.m3u
 https://bit.ly/43UMYrv
 #EXTINF:0 group-title="▶️ CONCIERTO ✅",CONCIERTO
 https://raw.githubusercontent.com/david2803/Iptv/main/c0nci3rt0.m3u
-#EXTINF:0 group-title="▶️ COLECCION ADAM SANDLER ✅",COLECCION ADAM SANDLER
-https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
-#EXTINF:0 group-title="▶️ NAVIDAD ✅",NAVIDAD
-https://dl.dropbox.com/s/ie9gc35le1ls4zq/COLENAVIDAD.M3U
-#EXTINF:0 group-title="▶️ COLECCION DISNEY ✅",COLECCION DISNEY
-https://dl.dropbox.com/s/sw9x2jponk6z0cc/COLED15NEYANIMADAS.M3U
-#EXTINF:0 group-title="▶️ COLECCION MARVEL ✅",COLECCION MARVEL
-https://dl.dropbox.com/s/wvvj874j5n3s0oc/COLEM4RV3L.M3U
-#EXTINF:0 group-title="▶️ COLECCION RESIDENT EVIL ✅",COLECCION RESIDENT EVIL
-https://dl.dropbox.com/s/92t06xo981701v3/FCOLERESIDENT3VIL.M3U
-#EXTINF:0 group-title="▶️ COLECCION TRANSFORMERS ✅",COLECCION TRANSFROMERS
-https://dl.dropbox.com/s/2coqzzonmu3y3ko/COLETR4NSFORM3RS.M3U
-#EXTINF:0 group-title="▶️ COLECCION JURASICC PARK ✅",COLECCION JURASICC PARK
-https://dl.dropbox.com/s/v1um7szqrq85f8q/COLEJURASSIC.M3U
 #EXTINF:0 group-title="▶️ MEXICANAS ✅",MEXICANAS
 https://bit.ly/4aVScYQ
-#EXTINF:0 group-title="▶️ COLECCION Quentin Tarantino ✅",COLECCION Quentin Tarantino
+#EXTINF:0 group-title="▶️ COLECCION Quentin Tarantino ✅",Peliculas del Director Quentin Tarantino
 https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
-#EXTINF:0 group-title="▶️ COLECCION Chris Columbus ✅",COLECCION Chris Columbus
+#EXTINF:0 group-title="▶️ COLECCION Chris Columbus ✅",Peliculas del Director Chris Columbus
 https://dl.dropbox.com/s/jqdo63wtxlekk3f/COLECHRISCOLUMBUS.M3U
-#EXTINF:0 group-title="▶️ COLECCION Tim Burton ✅",COLECCION Tim Burton
+#EXTINF:0 group-title="▶️ COLECCION Tim Burtom ✅",Peliculas del Director Tim Burtom
 https://dl.dropbox.com/s/vnyeocvl4rh1o4f/COLETIMBURTOM.M3U
+#EXTINF:0 group-title="▶️ COLECCION Guillermo del Toro ✅",Peliculas del Director Guillermo del Toro
+https://dl.dropbox.com/s/wjt8vftq8ld3p90/COLEGUILLERMODELTORO.M3U
+#EXTINF:0 group-title="▶️ COLECCION Akira Kurosawa ✅",Peliculas del Director  Akira Kurosawa
+https://dl.dropbox.com/s/he7x7v9pd9nlcjr/COLEAKIRAKUROSAWA.M3U
+#EXTINF:0 group-title="▶️ COLECCION M.Night Shyamalan ✅",Peliculas del Director M.Night Shyamalan
+https://dl.dropbox.com/s/1we8hquulrokghw/COLEMNIGHTSHYAMALAN.M3U
+#EXTINF:0 group-title="▶️ COLECCION Robert Zemeckys ✅",Peliculas del Director Robert Zemeckys 
+https://dl.dropbox.com/s/bq84pdorbroqdmv/COLECCIONROBERTZEMECKYS.M3U
+#EXTINF:0 group-title="▶️ COLECCION Martin Scorsese ✅", Peliculas del Director Martin Scorsese
+https://dl.dropbox.com/s/19hyytw0n1hdwfo/COLEMARTINSCORCESSE.M3U
+#EXTINF:0 group-title="▶️ COLECCION Francis Ford Coppola ✅",Peliculas del Director Francis Ford Coppola
+https://dl.dropbox.com/s/zr3yzdag2c3mubp/COLEFRANNCISFORDCOPPOLA.M3U
+#EXTINF:0 group-title="▶️ COLECCION Steven Spielberg ✅",Peliculas del Director Steven Spielberg
+https://dl.dropbox.com/s/8jnvfbonr5ypa4o/COLESTEVENSPIELBERG.M3U
+#EXTINF:0 group-title="▶️ COLECCION James Cameron ✅",Peliculas del Director James Cameron
+https://dl.dropbox.com/s/rxvwzwl86zavsrr/COLEJAMESCAMERON.M3U
+#EXTINF:0 group-title="▶️ COLECCION Ridley Scott ✅",Peliculas del Director Ridley Scott
+https://dl.dropbox.com/s/0ulox1cae9vrorc/COLERIDLEYSCOTT.M3U
+#EXTINF:0 group-title="▶️ COLECCION Christopher Nolan ✅",Peliculas del Director Christopher Nolan
+https://dl.dropbox.com/s/0xy6fk1898o1v7a/COLECHRISTOPHERNOLAN.M3U
+#EXTINF:0 group-title="▶️ COLECCION Stephen Chow ✅",Peliculas del Director Stephen Chow
+https://dl.dropbox.com/s/mhpbe9govcoi5mw/COLESTEPHENCHOW.M3U
+#EXTINF:0 group-title="▶️ COLECCION Edgar Wright ✅",Peliculas del Director Edgar Wright
+https://dl.dropbox.com/s/mww1yzji0kudjro/COLEEDGARWRIGHT.M3U
+#EXTINF:0 group-title="▶️ SAGA STAR WARS ✅",STAR WARS
+https://dl.dropbox.com/s/j9cohq6m9v21rrw/colest4rw4rs.m3u
+#EXTINF:0 group-title="▶️ SAGA CREPUSCULO ✅",Peliculas de la saga Crepusculo (Twilight)
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+#EXTINF:0 group-title="▶️ SAGA FRAGMENTADO ✅",framentado
+https://dl.dropbox.com/s/h0xay3zjszdo6ua/COLEFR4GMENT4DO.M3U
+#EXTINF:0 group-title="▶️ COLECCION MARVEL ✅",COLECCION MARVEL
+https://dl.dropbox.com/s/wvvj874j5n3s0oc/COLEM4RV3L.M3U
+#EXTINF:0 group-title="▶️ NAVIDAD ✅",NAVIDAD
+https://dl.dropbox.com/s/ie9gc35le1ls4zq/COLENAVIDAD.M3U
+#EXTINF:0 group-title="▶️ COLECCION AGENTE 007 ✅",SUPER AGENTE 007
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+#EXTINF:0 group-title="▶️ COLECCION DESTINO FINAL ✅",DESTINO FINAL
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+#EXTINF:0 group-title="▶️ COLECCION MAZE RUNNER ✅",MAZE RUNNER
+https://dl.dropbox.com/s/1ztanzi5mufm7e0/COLEMAZE.M3U
+#EXTINF:0 group-title="▶️ COLECCION RAPIDOS Y FURIOSOS  ✅",RAPIDOS Y FURIOSOS
+https://dl.dropbox.com/s/2qkotez5w4v4kfm/COLERAPIDOSYFURIOSOS.M3U
+#EXTINF:0 group-title="▶️ COLECCION DETECTIVE SUELTO  ✅",DETECTIVE SUELTO EN HOLLYWOOD
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+#EXTINF:0 group-title="▶️ COLECCION karate kid ✅",karate kid saga
+https://dl.dropbox.com/s/k62r9u9gu3bzpx4/COLEKARATEK1D.M3U
+#EXTINF:0 group-title="▶️ COLECCION TRANSFORMERS ✅",COLECCION TRANSFROMERS
+https://dl.dropbox.com/s/2coqzzonmu3y3ko/COLETR4NSFORM3RS.M3U
+#EXTINF:0 group-title="▶️ COLECCION HOMBRES DE NEGRO ✅",HOMBRES DE NEGRO SAGA
+https://dl.dropbox.com/s/57o6kcnj0f2x89f/COLEHOMBR3SDENEGRO.M3U
+#EXTINF:0 group-title="▶️ COLECCION RESIDENT EVIL ✅",COLECCION RESIDENT EVIL
+https://dl.dropbox.com/s/92t06xo981701v3/FCOLERESIDENT3VIL.M3U
+#EXTINF:0 group-title="▶️ COLECCION DAN BROWN ✅", SAGA DAN BROWN
+https://dl.dropbox.com/s/garctdxmdht3sr5/COLEDANBROWN.M3U
+#EXTINF:0 group-title="▶️ COLECCION HARRY POTTER ✅", SAGA HARRY POTTER
+https://dl.dropbox.com/s/s015fswwaoast67/COLEHARRYPOTT3R.M3U
+#EXTINF:0 group-title="▶️ COLECCION PIRATAS DEL CARIBE  ✅", SAGA PIRATAS DEL CARIBE
+https://dl.dropbox.com/s/nz1johgi9gvr76x/COLEPIRATASDELCARIBE.M3U
+#EXTINF:0 group-title="▶️ COLECCION JUEGOS DEL HAMBRE  ✅", SAGA JUEGOS DEL HAMBRE
+https://dl.dropbox.com/s/g2f6qe23hoi2b93/COLELOSJUEGOSDELH4MBRE.M3U
+#EXTINF:0 group-title="▶️ COLECCION JURASICC PARK ✅",COLECCION JURASICC PARK
+https://dl.dropbox.com/s/v1um7szqrq85f8q/COLEJURASSIC.M3U
+#EXTINF:0 group-title="▶️ COLECCION DEPREDADOR  ✅", SAGA DEPREDADOR
+https://dl.dropbox.com/s/uo7u3hyqcw30w9a/COLEDEPREDADOR.M3U
+#EXTINF:0 group-title="▶️ COLECCION TERMINATOR ✅", SAGA TERMINATOR
+https://dl.dropbox.com/s/g694rv3um7bsfe5/COLETERMINATOR.M3U
+#EXTINF:0 group-title="▶️ COLECCION PIXAR ✅", PELICULAS DE LA EMPRESA PIXAR
+https://dl.dropbox.com/s/24z1roosq6cfsa3/COLEPIXAR.M3U
+#EXTINF:0 group-title="▶️ COLECCION MATRIX ✅", TODA LA SAGA DE MATRIX
+https://dl.dropbox.com/s/nhorkl75vfi9q24/COLEMATRIX.M3U
+#EXTINF:0 group-title="▶️ COLECCION SEMANA SANTA ✅", PELICULAS RELACIONADAS CON SEMANA SANTA Y RELIGION
+https://dl.dropbox.com/s/nqbaawh0e0ahi33/COLESEMANASANTA.M3U
+#EXTINF:0 group-title="▶️ COLECCION JIM CARREY  ✅", SAGA DE PELICULAS DEL ACTOR JIM CARREY
+https://dl.dropbox.com/s/8lgjk0y5kdavx4p/COLEJIMC4RREY.M3U
+#EXTINF:0 group-title="▶️ COLECCION JACKIE CHAN ✅",PELICULAS DE JACKIE CHAN
+https://dl.dropbox.com/s/ltikikyqd0670p1/COLEJACKIECHAN.M3U
+#EXTINF:0 group-title="▶️ COLECCION ADAM SANDLER ✅",COLECCION ADAM SANDLER
+https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
+#EXTINF:0 group-title="▶️ COLECCION DISNEY ✅",COLECCION DISNEY
+https://dl.dropbox.com/s/sw9x2jponk6z0cc/COLED15NEYANIMADAS.M3U
+
 #EXTINF:-1 group-title="▶️ CINE INSURGENTE ✅",Películas Conciencia 
 https://raw.githubusercontent.com/david2803/Iptv/4f5ef691c16eb4457b6723c11bb95c353922c5e2/K%26D_movis2.m3u
