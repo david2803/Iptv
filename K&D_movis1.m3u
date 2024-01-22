@@ -335,5 +335,5 @@ https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 
-#EXTINF:0 group-title="?? CINE INSURGENTE ?",Politica en la Pantalla Grande
+#EXTINF:-1 tvg-logo="",CINE INSURGENTE
 https://raw.githubusercontent.com/david2803/Iptv/main/pc.m3u
