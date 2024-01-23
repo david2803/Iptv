@@ -4,8 +4,6 @@ http://..
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20240123-035601-0000/20240123_035601_0000_thumb.jpg",VIP ZONE Solicita al (+58 412-0530075)
 https://raw.githubusercontent.com/david2803/Iptv/main/V1p.m3u
-#EXTINF:-1 tvg-logo="https://bit.ly/39CS4j2",CONCIERTOS
-https://bit.ly/3RRwbBK
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg",ACCION
 https://bit.ly/3Sn0z8I
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg",CIENCIA FICCION
@@ -24,7 +22,8 @@ https://raw.githubusercontent.com/david2803/Iptv/main/1nf%40nt1l32.m3u
 https://bit.ly/3KBB3Ie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8dTgwpVi4bcXudTKFBTT9pIMSbK6L4lIUANXvqV8Mw&s", VARIADAS
 https://bit.ly/43UMYrv
-
+#EXTINF:-1 tvg-logo="https://bit.ly/39CS4j2",CONCIERTOS
+https://bit.ly/3RRwbBK
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2el43q0s6q17tof/MEXICANA.jpg",MEXICANAS
 https://bit.ly/4aVScYQ
 #EXTINF:-1 tvg-logo="https://archive.org/download/WESPO/WESPO.png",WESTERN
