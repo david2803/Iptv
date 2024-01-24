@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_El_argentino-755229555-large.jpg" group-title="",[EL_CHE EL ARGENTINO]
+https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20El%20argentino%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_Guerrilla-971418057-large.jpg" group-title="",[EL_CHE GUERRILLA]
+https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20Guerrilla%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
+
+#EXTINFO:0 tvg-logo="https://decine21.com/img/upload/obras/el-enemigo-del-pueblo/el-enemigo-del-pueblo-c.jpg",El Enemigo del Pueblo
+
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/olga-748840413-large.jpg",Olga
 https://archive.org/download/olga_20231110/Olga.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Besa_la_tierra_agricultura_regenerativa-215122733-large.jpg",Besa la Tierra (Agricultura Regenerativa)
@@ -34,10 +41,7 @@ https://archive.org/download/el-viento-del-este-grupo-dziga-vertov-1970-bdrip-72
 https://archive.org/download/Sola_G_Kozintsev/Sola%20%28G.%20K%C3%B3zintsev%2C%20L.%20Trauberg%2C%201931%29.avi
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/El_sueano_de_la_hormiga_roja-450144866-large.jpg" group-title="",[El sueño de la hormiga roja(2013)]
 https://archive.org/download/Sola_G_Kozintsev/Red.Ant.Dream.mkv
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_El_argentino-755229555-large.jpg" group-title="",[EL_CHE EL ARGENTINO]
-https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20El%20argentino%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Che_Guerrilla-971418057-large.jpg" group-title="",[EL_CHE GUERRILLA]
-https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Che.%20Guerrilla%20%28Steven%20Soderbergh%2C%202008%29%20%5BDVDRip%20VO%5D.avi
+
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Carlos-214973462-large.jpg" group-title="",[CARLOS]
 https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/Carlos%20%28Olivier%20Assayas%2C%202010%29%20%5BDVDRip%20Dual%5D.avi
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/El_Conde-709783273-large.jpg" group-title="",[EL CONDE PabloLarraín 2023]
