@@ -20,6 +20,8 @@ https://bit.ly/3TX7ruB
 https://raw.githubusercontent.com/david2803/Iptv/main/1nf%40nt1l32.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfWGjhEOJ-6gLd0cPjoF6z_YBR8s_UiUCC4GJvi_Nug&s",INFANTILES '2'
 https://bit.ly/3KBB3Ie
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4sqs0e6bk7r6q14/FANTASIA.jpg",FANTASIA
+https://bit.ly/4aXnT3N
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44frvua29qa624p/comedia.png",COMEDIA
 https://bit.ly/3vBQsUo
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8dTgwpVi4bcXudTKFBTT9pIMSbK6L4lIUANXvqV8Mw&s", VARIADAS
@@ -343,3 +345,5 @@ https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMjmzCFw-vcN-3edWE2ZGhXy_wcOrKB1uDfgE5IggNA&s",CINE INSURGENTE
 https://raw.githubusercontent.com/david2803/Iptv/main/pc.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
+http://srregio.net/23so/regioflix.m3u
