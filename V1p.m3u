@@ -9,8 +9,10 @@
 #EXTINF:-1 group-title="" tvg-logo="",
 #EXTINF:-1 group-title="" tvg-logo="",
 #EXTINF:-1 group-title="" tvg-logo="",
-#EXTINF:-1 group-title="" tvg-logo="",
-#EXTINF:-1 group-title="" tvg-logo="",
+#EXTINF:-1 group-title="" tvg-logo="https://pelisimg.online/cover/blue-beetle-1692423798.png",Blue Beetle
+https://server09.peliscdn.online/newhls/ff2a97300310a75dd7b7b4083afe3008/EP.0.2.v1.1695149195.720.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://pelisimg.online/cover/el-rey-mono-1692434974.png",El Rey Mono
+https://server15.peliscdn.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.1.v2.1692441953.1080.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://pelisimg.online/cover/milagro-en-la-celda-7-1585612530.jpg",Milagro en La Celda 7
 https://server39.peliscdn.online/newhls/06e87a441b61209186487cb2937ac55b/EP.0.1.v0.1676870471.360.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/silent_night-440853997-large.jpg",Venganza silenciosa
