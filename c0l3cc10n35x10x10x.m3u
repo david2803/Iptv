@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="PLAYBOY"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",PLAYBOY (CONTENIDO ADULTO)
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",PLAYBOY 
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/254195.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="SEXTREME"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXTREME (CONTENIDO ADULTO)
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXTREME
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/254196.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="SEXMEX"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXMEX (CONTENIDO ADULTO)
+#EXTINF:-1 tvg-id="" tvg-name="SEXMEX"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXMEX 
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/306025.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD Streaming 2",AdultIPTV.net Live Cams
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="spanish" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD Streaming 2",AdultIPTV.net Live Cams
 http://adultiptv.net/chs.m3u
