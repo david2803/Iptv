@@ -1,11 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",PLAYBOY 
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-language="english" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F118c3798ac12a2c4fb4029d9452654ec69d90e7821f45f7da7e79987edf1b6be.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",PLAYBOY 
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/254195.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXTREME
+
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-language="english" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F118c3798ac12a2c4fb4029d9452654ec69d90e7821f45f7da7e79987edf1b6be.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXTREME
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/254196.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SEXMEX"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXMEX 
+#EXTINF:-1 tvg-id="" tvg-name="SEXMEX" tvg-language="english" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F118c3798ac12a2c4fb4029d9452654ec69d90e7821f45f7da7e79987edf1b6be.jpg"  group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXMEX 
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/306025.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="english" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD Streaming 2",AdultIPTV.net Live Cams
