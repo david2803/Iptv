@@ -3,7 +3,7 @@
 #EXTINF:-1,tvg-logo="https://i.blogs.es/8154d1/documentales/1366_2000.jpg",DOCUMENTALES
 https://bit.ly/41WjlXz
 #EXTINF:-1,tvg-logo="https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.jpg",SERIES
-https://archive.org/download/anime_20240213_0640/SERIESELrEYultima.m3u
+https://bit.ly/3tSoK5o
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-series-logo.svg/289px-T-series-logo.svg.png",SERIES 2
 https://raw.githubusercontent.com/david2803/Iptv/main/Series3st3ticos.m3u
 #EXTINF:-1,tvg-logo="https://www.abc.com.py/resizer/lHP5ls-mBJASqMpXeeMWgDOB-N0=/fit-in/770xorig/smart/filters:format(webp)/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/SC2S3OFBRNA3HMWXFOLR4AJPEQ.jpg",CARICATURAS
@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/david2803/Iptv/main/karaok3.m3u
 https://archive.org/download/anime_20240213_0640/ANIME.m3u
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg",PELICULAS DE ANIMES
 https://archive.org/download/anime_20240213_0640/PELICULAS%20DE%20ANIME.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/fbb6gf8g4zftlhl/CARICATURAS.jpg",CARICATURAS
+https://bit.ly/3tSxxUO
 
 
 
