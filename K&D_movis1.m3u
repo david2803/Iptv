@@ -343,7 +343,10 @@ https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
+
+#EXTINF:-1,tvg-logo="http://archive.org/download/entertaiment09/P0R74D4Dr4m4.png",CINE PS3Movis
+http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMjmzCFw-vcN-3edWE2ZGhXy_wcOrKB1uDfgE5IggNA&s",CINE INSURGENTE
 https://raw.githubusercontent.com/david2803/Iptv/main/pc.m3u
