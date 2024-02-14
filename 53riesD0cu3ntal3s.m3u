@@ -2,10 +2,20 @@
 #EXTINF:-1,group-title="SERIES DOCUMENTALES Y MUCHO MAS"
 #EXTINF:-1,tvg-logo="https://i.blogs.es/8154d1/documentales/1366_2000.jpg",DOCUMENTALES
 https://bit.ly/41WjlXz
+#EXTINF:-1,tvg-logo="https://img.rtve.es/imagenes/mejores-documentales-ciencia-puedes-ver-rtve-play/1647524518623.jpg",DOCUMENTALES 2
+http://archive.org/download/PremierPS3/D0CUM3N74L35.m3u
 #EXTINF:-1,tvg-logo="https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.jpg",SERIES
 https://bit.ly/3tSoK5o
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-series-logo.svg/289px-T-series-logo.svg.png",SERIES 2
+
+#EXTINF:-1,tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D353R135.png",SERIES 2
+http://archive.org/download/PremierPS3/S3R13514.m3u
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-series-logo.svg/289px-T-series-logo.svg.png",SERIES 3
 https://raw.githubusercontent.com/david2803/Iptv/main/Series3st3ticos.m3u
+
+#EXTINF:-1,tvg-logo="https://phantom-marca.unidadeditorial.es/5dbf9a201bfb0d87a7d97823876fa492/resize/414/f/jpg/assets/multimedia/imagenes/2020/03/14/15841914561512.jpg",SERIES 4
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Series
+
 #EXTINF:-1,tvg-logo="https://www.abc.com.py/resizer/lHP5ls-mBJASqMpXeeMWgDOB-N0=/fit-in/770xorig/smart/filters:format(webp)/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/SC2S3OFBRNA3HMWXFOLR4AJPEQ.jpg",CARICATURAS
 https://bit.ly/3tSxxUO
 #EXTINF:-1,tvg-logo="https://s.france24.com/media/display/6aca8d1a-7783-11ea-9cf2-005056bf87d6/w:980/p:16x9/WEB%2005ABR%20DEPORTES%20PORTADA%20FOTO.jpg",DEPORTES
@@ -14,11 +24,27 @@ https://bit.ly/492BG7M
 https://raw.githubusercontent.com/david2803/Iptv/main/karaok3.m3u
 #EXTINF:-1,tvg-logo="https://i.blogs.es/30018b/25-mejores-animes/1366_2000.jpg",ANIMES
 http://jomiloma.com/PS3FLIX/SG9sYSBtaSBub21icmUgbm8gaW1wb3J0YSBsbyBxdWUgaW1wb3J0YSBlcyBxdWUgZXN0YXMgYXF1aSBjb24gYWxndW5hIG1vdGl2YWNpb24gbmVnYXRpdmE=.php?id=dS9uMHJESmRFb0hqeXgyV3lvOGNXY0s1M2dKd0dYSG9Qek5mWG5uN2Zkcz0=&f=menu.m3u
+
+#EXTINF:-1,tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D34N1M3.png",ANIMES2
+http://archive.org/download/PremierPS3/4N1M311.m3u
+
+#EXTINF:-1,tvg-logo="https://gothamotaku.com/wp-content/uploads/2020/08/Los-mejores-Animes-de-la-historia-scaled.jpg",ANIMES 3
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Animes
+
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/newsv7/20/04/02/12/18/0089480.jpg",PELICULAS DE ANIMES
 http://jomiloma.com/PS3FLIX/SG9sYSBtaSBub21icmUgbm8gaW1wb3J0YSBsbyBxdWUgaW1wb3J0YSBlcyBxdWUgZXN0YXMgYXF1aSBjb24gYWxndW5hIG1vdGl2YWNpb24gbmVnYXRpdmE=.php?id=dS9uMHJESmRFb0hqeXgyV3lvOGNXWXdGaVpSMldtSElZclo4Q29kTUFqcz0=&f=menu.m3u
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/fbb6gf8g4zftlhl/CARICATURAS.jpg",CARICATURAS
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/fbb6gf8g4zftlhl/CARICATURAS.jpg",CARICATURAS
 https://bit.ly/3tSxxUO
+
+#EXTINF:-1,tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D3C4R1C47UR45.png",CARICATURAS 2
+http://archive.org/download/PremierPS3/C4R1C47UR45P5312.m3u
+
+#EXTINF:-1tvg-logo="http://ia801505.us.archive.org/5/items/P0R74D455UBM3NU/P0R74D45D33V3N705.png" group-title="Eventos",Especiales
+http://archive.org/download/PremierPS3/3V3N70535P3C14L3518.m3u
+
+#EXTINF:-1tvg-logo="http://archive.org/download/P0R74D455UBM3NU/P0R74D45D373L3N0V3L45.png" group-title="Telenovelas",Novelas
+http://archive.org/download/PremierPS3/73L3N0V3L4515.m3u
 
 
 
