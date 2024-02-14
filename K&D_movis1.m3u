@@ -35,9 +35,9 @@ https://bit.ly/4aVScYQ
 #EXTINF:-1 tvg-logo="https://archive.org/download/WESPO/WESPO.png",WESTERN
 https://bit.ly/48zuWOD
 
-#EXTINF:-1,tvg-logo="https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/FB_IMG_1697083128095_thumb.jpg",CINE BRIAN-VEGA
+#EXTINF:-1,tvg-logo="",CINE BRIAN-VEGA
 https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
-#EXTINF:-1,tvg-logo="https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/IMG_20231011_235913_122_thumb.jpg",CINE PS3Movies+
+#EXTINF:-1,tvg-logo="",CINE PS3Movies+
 http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
 http://srregio.net/23so/regioflix.m3u
