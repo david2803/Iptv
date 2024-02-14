@@ -35,6 +35,13 @@ https://bit.ly/4aVScYQ
 #EXTINF:-1 tvg-logo="https://archive.org/download/WESPO/WESPO.png",WESTERN
 https://bit.ly/48zuWOD
 
+#EXTINF:-1,tvg-logo="https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/FB_IMG_1697083128095_thumb.jpg",CINE BRIAN-VEGA
+https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
+#EXTINF:-1,tvg-logo="https://archive.org/download/la-confesion-costa-gavras-1970-dvdrip-dual/IMG_20231011_235913_122_thumb.jpg",CINE PS3Movies+
+http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
+http://srregio.net/23so/regioflix.m3u
+
 #EXTINF:-1,tvg-logo="https://archive.org/download/cripor/qupor.png",Coleccion Quentin Tarantino
 https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
 
@@ -342,13 +349,7 @@ https://dl.dropbox.com/s/y08270qgwu8j87h/COLEADAMSANDLER.M3U
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-
-#EXTINF:-1,tvg-logo="http://archive.org/download/entertaiment09/P0R74D4Dr4m4.png",CINE PS3Movis
-http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMjmzCFw-vcN-3edWE2ZGhXy_wcOrKB1uDfgE5IggNA&s",CINE INSURGENTE
 https://raw.githubusercontent.com/david2803/Iptv/main/pc.m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
-http://srregio.net/23so/regioflix.m3u
+
