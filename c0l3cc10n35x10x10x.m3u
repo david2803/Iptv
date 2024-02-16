@@ -3,7 +3,7 @@
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dorcel TV HD" tvg-language="english" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F118c3798ac12a2c4fb4029d9452654ec69d90e7821f45f7da7e79987edf1b6be.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",Dorcel TV HD
-http://brazilgroup.xyz:25461/live/Geraldo/Geraldo1/3973.ts
+http://p22.sdn.si/dorcelhd/dorcelhd.isml/dorcelhd-video=4500000-audio101=128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-language="english" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F118c3798ac12a2c4fb4029d9452654ec69d90e7821f45f7da7e79987edf1b6be.jpg" group-title="CONTENIDO SOLO PARA MAYORES DE EDAD",SEXTREME
 http://198.245.53.172:8970/live/33PBRRHF444U/6YR9HJ2JMFCQ/254196.ts
