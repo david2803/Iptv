@@ -9,6 +9,6 @@ Telegram
 https://t.me/KDmovis
 
 WhatsApp
-https://whatsapp.com/channel/0029Va8M8Tz84Om770N9Kz0I
+https://bit.ly/KDWhatsApp
 
 ¡carpe diem!
