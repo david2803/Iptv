@@ -42,6 +42,9 @@ http://archive.org/download/PremierPS3/C0nc3ntr4d0.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
 http://srregio.net/23so/regioflix.m3u
 
+#EXTINF:-1 tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/04/CABECERA_4K.jpg?w=1040&h=400&crop=1",Peliculas 4K y mucho (+)
+https://bitly.ws/3fejt
+
 #EXTINF:-1,tvg-logo="https://archive.org/download/cripor/qupor.png",Coleccion Quentin Tarantino
 https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
 
