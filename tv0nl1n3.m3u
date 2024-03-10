@@ -2834,9 +2834,8 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315577.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CL | ESPN 6"  group-title="CHILE",CL | ESPN 6
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315578.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="prueba 321 123"  group-title"PRUEBAS",prueba 321 123
+#EXTINF:-1 tvg-ID="" tvg-name="prueba 321 123"  group-title="PRUEBAS",prueba 321 123
 http://198.245.53.172:8970/liv/931384020402045/931384020402045/315572.ts
-
 
 #EXTINF:-1 tvg-ID="" tvg-name="CL | ESPN PREMIUM"  group-title="CHILE",CL | ESPN PREMIUM
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315579.ts
