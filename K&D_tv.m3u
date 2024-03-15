@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM ✅",Tv Online LATINO
 https://raw.githubusercontent.com/david2803/Iptv/main/tv0nl1n3.m3u
+
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV✅",REGIO FLIX TV
 http://srregio.net/23ma/tv.m3u
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV2✅",REGIO FLIX TV2
@@ -52,6 +53,8 @@ https://iptv-org.github.io/iptv/countries/ni.m3u
 #EXTINF:-1 group-title="▶️TV URUGUAY✅",URUGUAY
 https://iptv-org.github.io/iptv/countries/uy.m3u
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM (link alternativo)✅",Tv Online LATINO Alternativo 
+http://para.vermas.win:8970/get.php?username=33PBRRHF444U&password=6YR9HJ2JMFCQ&type=m3u_plus&output=ts
 
 
 
