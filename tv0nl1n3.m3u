@@ -2835,8 +2835,6 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315577.ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315578.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Lista Completa Actualizada"  group-title="R3SPA1D0",Lista Completa Actualizada
 http://para.vermas.win:8970/get.php?username=QFFB6QJ9D6CX&password=QPG9XA4T294F&type=m3u_plus&output=ts
-#EXTINF:-1 tvg-ID="" tvg-name="L1stA Aux1l1ar"  group-title="R3SPA1D0",L1stA Aux1l1ar
-https://raw.githubusercontent.com/david2803/Iptv/main/tvAuxiliar000.m3u
 #EXTINF:-1 tvg-ID="" tvg-name="CL | ESPN PREMIUM"  group-title="CHILE",CL | ESPN PREMIUM
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/315579.ts
 #EXTINF:-1 tvg-ID="" tvg-name=""  group-title="TPADUL",SOLO TV PARA ADULTOS
