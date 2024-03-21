@@ -55,5 +55,7 @@ https://iptv-org.github.io/iptv/countries/uy.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM (link alternativo)✅",Tv Online LATINO Alternativo 
 http://para.vermas.win:8970/get.php?username=33PBRRHF444U&password=6YR9HJ2JMFCQ&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM (link alternativo2)✅",Tv Online LATINO Alternativo 2
+https://raw.githubusercontent.com/david2803/Iptv/main/tvAuxiliar000.m3u
 
 
