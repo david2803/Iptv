@@ -3,32 +3,32 @@
 https://raw.githubusercontent.com/david2803/Iptv/main/tvAuxiliar000.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV✅",REGIO FLIX TV
-http://srregio.net/24as/tv.m3u
+http://srregio.net/24on/tv.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV2✅",REGIO FLIX TV2
-http://srregio.net/24as/tv2.m3u
+http://srregio.net/24on/tv2.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV3✅",REGIO FLIX TV3
-http://srregio.net/24as/tv3.m3u
+http://srregio.net/24on/tv3.m3u
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV4✅",REGIO FLIX TV4
-http://srregio.net/24as/tv4.m3u
+http://srregio.net/24on/tv4.m3u
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV5✅",REGIO FLIX TV5
-http://srregio.net/24as/tv5.m3u
+http://srregio.net/24on/tv5.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV6✅",REGIO FLIX TV6
-http://srregio.net/24as/tv6.m3u
+http://srregio.net/24on/tv6.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV7✅",REGIO FLIX TV7
-http://srregio.net/24as/tv7.m3u
+http://srregio.net/24on/tv7.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV8✅",REGIO FLIX TV8
-http://srregio.net/24as/tv8.m3u
+http://srregio.net/24on/tv8.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV9✅",REGIO FLIX TV9
-http://srregio.net/24as/tv9.m3u
+http://srregio.net/24on/tv9.m3u
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV10✅",REGIO FLIX TV10
-http://srregio.net/24as/tv10.m3u
+http://srregio.net/24on/tv10.m3u
 
 #EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
 https://iptv-org.github.io/iptv/countries/ve.m3u
