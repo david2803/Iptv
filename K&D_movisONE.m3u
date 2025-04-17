@@ -6,7 +6,6 @@ http://..
 https://raw.githubusercontent.com/david2803/Iptv/main/V1p33.m3u
 
 #EXTINF:-1 tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/04/CABECERA_4K.jpg?w=1040&h=400&crop=1",Peliculas 4K ESTRENOS y mucho (+)
-http://para.vermas.win:8970/get.php?username=QFFB6QJ9D6CX&password=QPG9XA4T294F&type=m3u_plus&output=ts&opcion=movies
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8dTgwpVi4bcXudTKFBTT9pIMSbK6L4lIUANXvqV8Mw&s", VARIADAS
 https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
@@ -15,7 +14,7 @@ https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
 https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
-http://srregio.net/24on/regioflix.m3u
+http://srregio.net/25am/regioflix.m3u
 
 
 #EXTINF:-1,tvg-logo="https://archive.org/download/mis_20230123/Mis.png",Coleccion Mision Imposible
