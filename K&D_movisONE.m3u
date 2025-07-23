@@ -14,94 +14,86 @@ https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
 https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
-http://srregio.net/25am/regioflix.m3u
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg",ACCION
 
-#EXTINF:-1,tvg-logo="https://archive.org/download/mis_20230123/Mis.png",Coleccion Mision Imposible
-#EXTINF:-1,tvg-logo="https://archive.org/download/evi_20230123/evi.png",Coleccion Evil Dead
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Christian Bale
-#EXTINF:-1,tvg-logo="https://archive.org/download/ame_20230123/ame.png",Coleccion American Pie
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion El Senor de los anillos
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Rocky
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Arma Letal
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Bad Boys
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Una pareja explosiva
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Arthur y los Minimoys
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Austin Power
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Asterix y Obelix
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Batman
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Mi pobre angelito
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Jack Ryan
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",coleccion La Historia sin Fin
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Duro de Matar
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion La Pantera Rosa
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Mad Max
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Millenium
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Mira quien habla
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Mision Imposible
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Ocean Eleven
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Porkys
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Rambo
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Robocop
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Scary Movie
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Shrek
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Soldado Universal
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Mini Espias
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Superman
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Tiburon
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Torrente
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Tortugas Ninja
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Toy Story
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion El Transportador
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Trilogia del Dolar
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion x men
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
-#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1mxo64pury4n6c5/CIENCIA%20FICCION.jpg",CIENCIA FICCION
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f7qrw5a4wi1rqgj/DRAMA.jpg",DRAMA
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5t41za79plctdl5/ROMANTICAS.jpg",ROMANTICAS
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5gyw537zrf1i3ic/SUSPENSO.jpg",SUSPENSO
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/eq0ll4uhvj52zi2/TERROR.jpg",TERROR
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1jub9jqdl93rw2s/INFANTIL.jpg",INFANTIL
+https://raw.githubusercontent.com/david2803/Iptv/main/1nf%40nt1l32.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfWGjhEOJ-6gLd0cPjoF6z_YBR8s_UiUCC4GJvi_Nug&s",INFANTILES '2'
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2el43q0s6q17tof/MEXICANA.jpg",MEXICANAS
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/WESPO/WESPO.png",WESTERN
+
+#EXTINF:-1,tvg-logo="https://archive.org/download/cripor/qupor.png",Coleccion Quentin Tarantino
+https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/cricri-2/CRICRI2.png",Coleccion Chris Columbus
+https://dl.dropbox.com/s/jqdo63wtxlekk3f/COLECHRISCOLUMBUS.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/tipor/tipor.png",Coleccion Tim Burtom
+https://dl.dropbox.com/s/vnyeocvl4rh1o4f/COLETIMBURTOM.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/tipor/guipor.png",Coleccion Guillermo del Toro
+https://dl.dropbox.com/s/wjt8vftq8ld3p90/COLEGUILLERMODELTORO.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/akiku.png",Coleccion Akira kurosawa
+https://dl.dropbox.com/s/he7x7v9pd9nlcjr/COLEAKIRAKUROSAWA.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/SHYA.png",Coleccion M. Night Shyamalan
+https://dl.dropbox.com/s/1we8hquulrokghw/COLEMNIGHTSHYAMALAN.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/ROBZE.png",Coleccion Robert Zemeckis
+https://dl.dropbox.com/s/bq84pdorbroqdmv/COLECCIONROBERTZEMECKYS.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/MARESC.png",Coleccion Martin Scorsese
+https://dl.dropbox.com/s/19hyytw0n1hdwfo/COLEMARTINSCORCESSE.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/FRANFOCO.png",Coleccion Francis Ford Coppola
+https://dl.dropbox.com/s/zr3yzdag2c3mubp/COLEFRANCISFORDCOPPOLA.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/STESPI.png",Coleccion Steven Spielberg
+https://dl.dropbox.com/s/8jnvfbonr5ypa4o/COLESTEVENSPIELBERG.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/JAMCA.png",Coleccion James Cameron
+https://dl.dropbox.com/s/rxvwzwl86zavsrr/COLEJAMESCAMERON.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ridpor/ridpor.png",Coleccion Ridley Scott
+https://DL.dropbox.com/s/0ulox1cae9vrorc/COLERIDLEYSCOTT.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/STAKU.png",Coleccion Stanley Kubrick
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/ROPOL.png",Coleccion Roman Polanski
+#EXTINF:-1,tvg-logo="https://archive.org/download/ROPOL/CRINO.png",Coleccion Christopher Nolan
+https://dl.dropbox.com/s/0xy6fk1898o1v7a/COLECHRISTOPHERNOLAN.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/pove_20230106/pove.png",Coleccion Paul Verhoeven
+#EXTINF:-1,tvg-logo="https://archive.org/download/mat_20230129/sofi.png",Coleccion Sofia Coppola
+#EXTINF:-1,tvg-logo="https://archive.org/download/mat_20230129/ESTE.png",Coleccion Stephen Chow
+https://dl.dropbox.com/s/mhpbe9govcoi5mw/COLESTEPHENCHOW.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/carupor/edgapor.png",Coleccion Edgar Wright
+https://dl.dropbox.com/s/mww1yzji0kudjro/COLEEDGARWRIGHT.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/DISPOR/DISPOR.png",Coleccion Disney Animadas
+https://dl.dropbox.com/s/sw9x2jponk6z0cc/COLED15NEYANIMADAS.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/stapor.png",Coleccion Star Wars
+https://dl.dropbox.com/s/j9cohq6m9v21rrw/colest4rw4rs.m3u
+#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/crepor.png",Coleccion Crepusculo
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion Fragmentado
+https://dl.dropbox.com/s/h0xay3zjszdo6ua/COLEFR4GMENT4DO.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/DOCUPOR/MARPOR.png",Coleccion Marvel
+https://dl.dropbox.com/s/wvvj874j5n3s0oc/COLEM4RV3L.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/DOCUPOR/MERPOR.png",Coleccion Navidenas
+https://dl.dropbox.com/s/ie9gc35le1ls4zq/COLENAVIDAD.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/7por_20221223/7por.png",Coleccion 007
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/4po_20221223/despor.png",Coleccion Destino Final
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/ma1po/mapo.png",Coleccion Maze runner
+https://dl.dropbox.com/s/1ztanzi5mufm7e0/COLEMAZE.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/rappor_202212/rappor.png",Coleccion Rapidos y Furiosos
+https://dl.dropbox.com/s/2qkotez5w4v4kfm/COLERAPIDOSYFURIOSOS.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/rappor_202212/detepor.png",Coleccion Un detective suelto en Hollywood
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+#EXTINF:-1,tvg-logo="https://archive.org/download/kapor/kapor.png",Coleccion Karate Kid
+https://dl.dropbox.com/s/k62r9u9gu3bzpx4/COLEKARATEK1D.M3U
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
 #EXTINF:-1,tvg-logo="https://archive.org/download/sapro/sapro.png",Coleccion 
