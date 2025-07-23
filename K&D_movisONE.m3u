@@ -13,9 +13,6 @@ https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
 #EXTINF:-1,tvg-logo="https://archive.org/download/novelas_202402/brian2.jpeg",CINE BRIAN-VEGA
 https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
 
-#EXTINF:-1,tvg-logo="",PRUEBA123
-https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/movisPruebas.m3u
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nsaz5eites3l5j3/ACCION.jpg",ACCION
