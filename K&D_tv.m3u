@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM ✅",Tv Online LATINO
-https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV✅",REGIO FLIX TV
-http://srregio.net/25am/tv.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV2✅",REGIO FLIX TV2
-http://srregio.net/25am/tv2.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV3✅",REGIO FLIX TV3
-http://srregio.net/25am/tv3.m3u
+
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV4✅",REGIO FLIX TV4
-http://srregio.net/25am/tv4.m3u
+
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV5✅",REGIO FLIX TV5
-http://srregio.net/25am/tv5.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV6✅",REGIO FLIX TV6
-http://srregio.net/25am/tv6.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV7✅",REGIO FLIX TV7
-http://srregio.net/25am/tv7.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV8✅",REGIO FLIX TV8
-http://srregio.net/25am/tv8.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV9✅",REGIO FLIX TV9
-http://srregio.net/25am/tv9.m3u
+
 
 #EXTINF:-1 tvg-logo="https://srregio.net/notiregio/wp-content/uploads/2022/07/pantalla-inicio-1024x540.jpg" group-title="▶️REGIO FLIX TV10✅",REGIO FLIX TV10
-http://srregio.net/25am/tv10.m3u
+
 
 #EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
 https://iptv-org.github.io/iptv/countries/ve.m3u
@@ -72,6 +72,6 @@ https://iptv-org.github.io/iptv/countries/ni.m3u
 https://iptv-org.github.io/iptv/countries/uy.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV PREMIUM (link alternativo)✅",Tv Online LATINO Alternativo 
-http://proyecto86.rus:9999/get.php?username=33PBRRHF444U&password=6YR9HJ2JMFCQ&type=m3u_plus&output=ts
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
 
 
