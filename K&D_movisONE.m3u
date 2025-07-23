@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/david2803/Iptv/main/V1p33.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8dTgwpVi4bcXudTKFBTT9pIMSbK6L4lIUANXvqV8Mw&s", VARIADAS
 https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
 
-#EXTINF:-1,tvg-logo="https://archive.org/download/novelas_202402/brian2.jpeg",CINE BRIAN-VEGA
+#EXTINF:-1,tvg-logo="https://archive.org/download/novelas_202402/brian2.jpeg", CINE BRIAN-VEGA
 https://raw.githubusercontent.com/david2803/Iptv/main/c1n3BrianVega.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINYo-NgGRlAqUq8fw1ZoHsJgsTLvtL0-_FdmwMH__fg&s", Regio Flix
