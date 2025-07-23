@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/M3X1CANA5.m3u
 #EXTINF:-1 tvg-logo="https://supercurioso.com/wp-content/uploads/2015/11/Mejores-pel%C3%ADculas-de-los-60.jpg",WESTERN
 https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/W3NT3RN.m3u
 
+#EXTINF:-1 tvg-logo="https://www.diarioevolucion.com.mx/wp-content/uploads/2021/05/concierto.jpg",CONCIERTOS
+https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/c0nci3rt0.m3u
+
 #EXTINF:-1,tvg-logo="https://faroutmagazine.co.uk/static/uploads/1/2024/08/Quentin-Tarantino-Director-Far-Out-Magazine-F-1140x855.jpg",Coleccion Quentin Tarantino
 https://dl.dropbox.com/s/37k6nevp30wkxvy/COLET4R4NTINO.M3U
 #EXTINF:-1,tvg-logo="https://www.thefamouspeople.com/profiles/images/chris-columbus-1.jpg",Coleccion Chris Columbus
