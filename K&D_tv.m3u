@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
 https://iptv-org.github.io/iptv/countries/ve.m3u
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="▶️TELECLUB✅",TELECLUB (activa en su página web)
-http://tv.teleclub.xyz/lista/canales.m3u
+http://tv.teleclub.xyz/tv/lista.m3u
 
 #EXTINF:-1 group-title="▶️PLUTO TV ✅",PLUTO TV
 https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
