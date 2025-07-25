@@ -14,6 +14,12 @@ https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
 https://iptv-org.github.io/iptv/countries/co.m3u
 #EXTINF:-1 group-title="▶️TV PERU✅",PERU
 https://iptv-org.github.io/iptv/countries/pe.m3u
+
+#EXTINF:-1 group-title="▶️TV PERU1✅",PERU1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2202&sec=6&f=.m3u
+#EXTINF:-1 group-title="▶️TV PERU2✅",PERU2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062014&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV BOLIVIA✅",BOLIVIA
 https://iptv-org.github.io/iptv/countries/bo.m3u
 #EXTINF:-1 group-title="▶️TV BRAZIL✅",BRAZIL
