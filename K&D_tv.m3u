@@ -13,15 +13,24 @@ https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2202&sec=6&f=.m3u
 #EXTINF:-1 group-title="▶️TV NEFLIX✅",NEFLIX
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062014&sec=6&f=.m3u
-
+#EXTINF:-1 group-title="▶️TV NOTICIAS✅",NOTICIAS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062032&sec=6&f=.m3u
 #EXTINF:-1 group-title="▶️TV INFANTILES✅",INFANTILES
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2096&sec=6&f=.m3u
-
 #EXTINF:-1 group-title="▶️TV ENTRETENIMIENTO✅",ENTRETENIMIENTO
  http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2092&sec=6&f=.m3u
-
+#EXTINF:-1 group-title="▶️TV CANALES ULTRAS✅",CANALES ULTRAS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062002&sec=6&f=.m3u
 #EXTINF:-1 group-title="▶️TV CANELA✅",CANELA TV
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062158&sec=6&f=.m3u
+#EXTINF:-1 group-title="▶️TV SKYPREMIER✅",SKYTV
+ http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062020&sec=6&f=.m3u
+#EXTINF:-1 group-title="▶️TV MUSICA✅",MUSICA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2100&sec=6&f=.m3u
+#EXTINF:-1 group-title="▶️TV DOCUMENTALES✅",DOCUMENTALES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2098&sec=6&f=.m3u
+#EXTINF:-1 group-title="▶️TV DEPORTES✅",DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2094&sec=6&f=.m3u
 
 #EXTINF:-1 group-title="▶️TV COLOMBIA✅",COLOMBIA
 https://iptv-org.github.io/iptv/countries/co.m3u
