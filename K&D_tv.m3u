@@ -5,27 +5,27 @@ https://iptv-org.github.io/iptv/countries/ve.m3u
 #EXTINF:-1 group-title="▶️PLUTO TV ✅",PLUTO TV
 https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
 #EXTINF:-1 group-title="▶️TV Peliculas✅",TV Peliculas
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2202&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV NETFLIX✅",NETFLIX
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062014&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV NOTICIAS✅",NOTICIAS
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062032&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV INFANTILES✅",INFANTILES
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2096&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV ENTRETENIMIENTO✅",ENTRETENIMIENTO
- http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2092&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV CANALES ULTRAS✅",CANALES ULTRAS
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062002&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV CANELA✅",CANELA TV
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062158&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV SKYPREMIER✅",SKYTV
- http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=1062020&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV MUSICA✅",MUSICA
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2100&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV DOCUMENTALES✅",DOCUMENTALES
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2098&sec=6&f=.m3u
+
 #EXTINF:-1 group-title="▶️TV DEPORTES✅",DEPORTES
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/seccion3.php?cat=2094&sec=6&f=.m3u
+
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="▶️TELECLUB✅",TELECLUB
 http://tv.teleclub.xyz/tv/lista.m3u
 #EXTINF:-1 group-title="▶️TV COLOMBIA✅",COLOMBIA
@@ -62,8 +62,7 @@ https://iptv-org.github.io/iptv/countries/ni.m3u
 https://iptv-org.github.io/iptv/countries/uy.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV Latino (link alternativo)✅",Tv Online LATINO Alternativo 
-https://godna94.pp.ua/NECESITAMOS_TU_AYUDA_ES_AHORA_AYUDA_AHORA_SIN_PREOCUPACIONES_CONTENIDO_DE_PS3FLIX.php?v=eVVBZy9ZSHhzU25CRkZMTlNWZExMUi9EQ3htcVVYOWVGbVZEWHhNTkgycU84S1JHTm9ITWw4R1pOYTNEbUh2M2Y0WWx3QnRtMDZuazAvdXQwbzNIMVFrWTFKZ0U2NlVBTjZaRCs0ekJzVzA9&f=menu.m3u
+https://godna94.pp.ua/NECESITAMOS_TU_AYUDA_ES_AHORA_AYUDA_AHORA_SIN_PREOCUPACIONES_CONTENIDO_DE_PS3FLIX.php?v=eVVBZy9ZSHhzU25CRkZMTlNWZExMVnpHZW9mSFg1YWQ1SkpHWVF6MGZaaEhrOTZqWjlhRlpzbUlPalVvcHI5amRBbk1XOUNGV0RFdk8yaGNVMjBldk8xMUpUZThKckRsQ0RLMGhnNHVlUnM9&f=menu.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV Clasicos✅",Tv Clasicos
-https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/c0l3cc1nx0x0x0.m3u
 
