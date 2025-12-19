@@ -1,30 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV Latino (link alternativo)✅",Tv Online LATINO Alternativo 
+https://godna94.pp.ua/NECESITAMOS_TU_AYUDA_ES_AHORA_AYUDA_AHORA_SIN_PREOCUPACIONES_CONTENIDO_DE_PS3FLIX.php?v=eVVBZy9ZSHhzU25CRkZMTlNWZExMVnpHZW9mSFg1YWQ1SkpHWVF6MGZaaEhrOTZqWjlhRlpzbUlPalVvcHI5amRBbk1XOUNGV0RFdk8yaGNVMjBldk8xMUpUZThKckRsQ0RLMGhnNHVlUnM9&f=menu.m3u
 #EXTINF:-1 group-title="▶️TV VENEZUELA✅",VENEZUELA
 https://iptv-org.github.io/iptv/countries/ve.m3u
 #EXTINF:-1 group-title="▶️PLUTO TV ✅",PLUTO TV
 https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
-#EXTINF:-1 group-title="▶️TV Peliculas✅",TV Peliculas
-
-#EXTINF:-1 group-title="▶️TV NETFLIX✅",NETFLIX
-
-#EXTINF:-1 group-title="▶️TV NOTICIAS✅",NOTICIAS
-
-#EXTINF:-1 group-title="▶️TV INFANTILES✅",INFANTILES
-
-#EXTINF:-1 group-title="▶️TV ENTRETENIMIENTO✅",ENTRETENIMIENTO
-
-#EXTINF:-1 group-title="▶️TV CANALES ULTRAS✅",CANALES ULTRAS
-
-#EXTINF:-1 group-title="▶️TV CANELA✅",CANELA TV
-
-#EXTINF:-1 group-title="▶️TV SKYPREMIER✅",SKYTV
-
-#EXTINF:-1 group-title="▶️TV MUSICA✅",MUSICA
-
-#EXTINF:-1 group-title="▶️TV DOCUMENTALES✅",DOCUMENTALES
-
-#EXTINF:-1 group-title="▶️TV DEPORTES✅",DEPORTES
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="▶️TELECLUB✅",TELECLUB
 http://tv.teleclub.xyz/tv/lista.m3u
@@ -60,9 +41,29 @@ https://iptv-org.github.io/iptv/countries/pr.m3u
 https://iptv-org.github.io/iptv/countries/ni.m3u
 #EXTINF:-1 group-title="▶️TV URUGUAY✅",URUGUAY
 https://iptv-org.github.io/iptv/countries/uy.m3u
+#EXTINF:-1 group-title="▶️TV Peliculas✅",TV Peliculas
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV Latino (link alternativo)✅",Tv Online LATINO Alternativo 
-https://godna94.pp.ua/NECESITAMOS_TU_AYUDA_ES_AHORA_AYUDA_AHORA_SIN_PREOCUPACIONES_CONTENIDO_DE_PS3FLIX.php?v=eVVBZy9ZSHhzU25CRkZMTlNWZExMVnpHZW9mSFg1YWQ1SkpHWVF6MGZaaEhrOTZqWjlhRlpzbUlPalVvcHI5amRBbk1XOUNGV0RFdk8yaGNVMjBldk8xMUpUZThKckRsQ0RLMGhnNHVlUnM9&f=menu.m3u
+#EXTINF:-1 group-title="▶️TV NETFLIX✅",NETFLIX
+
+#EXTINF:-1 group-title="▶️TV NOTICIAS✅",NOTICIAS
+
+#EXTINF:-1 group-title="▶️TV INFANTILES✅",INFANTILES
+
+#EXTINF:-1 group-title="▶️TV ENTRETENIMIENTO✅",ENTRETENIMIENTO
+
+#EXTINF:-1 group-title="▶️TV CANALES ULTRAS✅",CANALES ULTRAS
+
+#EXTINF:-1 group-title="▶️TV CANELA✅",CANELA TV
+
+#EXTINF:-1 group-title="▶️TV SKYPREMIER✅",SKYTV
+
+#EXTINF:-1 group-title="▶️TV MUSICA✅",MUSICA
+
+#EXTINF:-1 group-title="▶️TV DOCUMENTALES✅",DOCUMENTALES
+
+#EXTINF:-1 group-title="▶️TV DEPORTES✅",DEPORTES
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV Clasicos✅",Tv Clasicos
 
