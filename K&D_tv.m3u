@@ -64,6 +64,35 @@ https://iptv-org.github.io/iptv/countries/uy.m3u
 #EXTINF:-1 group-title="▶️TV DEPORTES✅",DEPORTES
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="▶️TV REGIO1✅",REGIO1
+http://srregio.net/26jj/tv.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO2✅",REGIO2
+http://srregio.net/26jj/tv2.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO3✅",REGIO3
+http://srregio.net/26jj/tv3.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO4✅",REGIO4
+http://srregio.net/26jj/tv4.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO5✅",REGIO5
+http://srregio.net/26jj/tv5.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO6✅",REGIO6
+http://srregio.net/26jj/tv6.m3
+
+#EXTINF:-1 group-title="▶️TV REGIO7✅",REGIO7
+http://srregio.net/26jj/tv7.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO8✅",REGIO8
+http://srregio.net/26jj/tv8.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO9✅",REGIO9
+http://srregio.net/26jj/tv9.m3u
+
+#EXTINF:-1 group-title="▶️TV REGIO10✅",REGIO10
+http://srregio.net/26jj/tv10.m3u
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/410O56DAkyL.png" group-title="▶️TV FIFA✅",TV FIFA
 https://raw.githubusercontent.com/david2803/Iptv/refs/heads/main/tvAuxiliar000.m3u
